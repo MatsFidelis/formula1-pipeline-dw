@@ -1,0 +1,39 @@
+# ===============================
+# Ignorar arquivos de ambiente virtual
+# ===============================
+.venv/
+venv/
+
+# ===============================
+# Ignorar arquivos do Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# ===============================
+# Ignorar dados temporários e logs
+# ===============================
+*.log
+logs/
+*.sqlite3
+
+# ===============================
+# Ignorar arquivos do Jupyter
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Ignorar arquivos de sistema
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Ignorar arquivos de build / docker
+# ===============================
+docker/**/__pycache__/
+docker/**/.env
+docker/**/tmp/

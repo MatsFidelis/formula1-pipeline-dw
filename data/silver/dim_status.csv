@@ -1,0 +1,140 @@
+_status_sk_;#statusId;descricao_status
+1;1;Finished
+2;2;Disqualified
+3;3;Accident
+4;4;Collision
+5;5;Engine
+6;6;Gearbox
+7;7;Transmission
+8;8;Clutch
+9;9;Hydraulics
+10;10;Electrical
+11;11;+1 Lap
+12;12;+2 Laps
+13;13;+3 Laps
+14;14;+4 Laps
+15;15;+5 Laps
+16;16;+6 Laps
+17;17;+7 Laps
+18;18;+8 Laps
+19;19;+9 Laps
+20;20;Spun off
+21;21;Radiator
+22;22;Suspension
+23;23;Brakes
+24;24;Differential
+25;25;Overheating
+26;26;Mechanical
+27;27;Tyre
+28;28;Driver Seat
+29;29;Puncture
+30;30;Driveshaft
+31;31;Retired
+32;32;Fuel pressure
+33;33;Front wing
+34;34;Water pressure
+35;35;Refuelling
+36;36;Wheel
+37;37;Throttle
+38;38;Steering
+39;39;Technical
+40;40;Electronics
+41;41;Broken wing
+42;42;Heat shield fire
+43;43;Exhaust
+44;44;Oil leak
+45;45;+11 Laps
+46;46;Wheel rim
+47;47;Water leak
+48;48;Fuel pump
+49;49;Track rod
+50;50;+17 Laps
+51;51;Oil pressure
+52;128;+42 Laps
+53;53;+13 Laps
+54;54;Withdrew
+55;55;+12 Laps
+56;56;Engine fire
+57;129;Engine misfire
+58;58;+26 Laps
+59;59;Tyre puncture
+60;60;Out of fuel
+61;61;Wheel nut
+62;62;Not classified
+63;63;Pneumatics
+64;64;Handling
+65;65;Rear wing
+66;66;Fire
+67;67;Wheel bearing
+68;68;Physical
+69;69;Fuel system
+70;70;Oil line
+71;71;Fuel rig
+72;72;Launch control
+73;73;Injured
+74;74;Fuel
+75;75;Power loss
+76;76;Vibrations
+77;77;107% Rule
+78;78;Safety
+79;79;Drivetrain
+80;80;Ignition
+81;81;Did not qualify
+82;82;Injury
+83;83;Chassis
+84;84;Battery
+85;85;Stalled
+86;86;Halfshaft
+87;87;Crankshaft
+88;88;+10 Laps
+89;89;Safety concerns
+90;90;Not restarted
+91;91;Alternator
+92;92;Underweight
+93;93;Safety belt
+94;94;Oil pump
+95;95;Fuel leak
+96;96;Excluded
+97;97;Did not prequalify
+98;98;Injection
+99;99;Distributor
+100;100;Driver unwell
+101;101;Turbo
+102;102;CV joint
+103;103;Water pump
+104;104;Fatal accident
+105;105;Spark plugs
+106;106;Fuel pipe
+107;107;Eye injury
+108;108;Oil pipe
+109;109;Axle
+110;110;Water pipe
+111;111;+14 Laps
+112;112;+15 Laps
+113;113;+25 Laps
+114;114;+18 Laps
+115;115;+22 Laps
+116;116;+16 Laps
+117;117;+24 Laps
+118;118;+29 Laps
+119;119;+23 Laps
+120;120;+21 Laps
+121;121;Magneto
+122;122;+44 Laps
+123;123;+30 Laps
+124;124;+19 Laps
+125;125;+46 Laps
+126;126;Supercharger
+127;127;+20 Laps
+128;130;Collision damage
+129;131;Power Unit
+130;132;ERS
+131;133;+49 Laps
+132;134;+38 Laps
+133;135;Brake duct
+134;136;Seat
+135;137;Damage
+136;138;Debris
+137;139;Illness
+138;140;Undertray
+139;141;Cooling system

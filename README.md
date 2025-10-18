@@ -1,4 +1,4 @@
-# Fórmula 1 DataWarehouse Pipeline
+# Fórmula 1 LakeHouse Pipeline
 
 Este projeto tem como objetivo principal **estudo e aprendizado de engenharia de dados**, utilizando uma **arquitetura em medalhão (Bronze → Silver → Gold)**.  
 Os dados passam por uma sequência de transformações e limpeza, inicialmente manipulados **manualmente em notebooks Jupyter** e posteriormente através de um **pipeline automatizado com Apache Airflow e Docker**.  

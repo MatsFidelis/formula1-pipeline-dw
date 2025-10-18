@@ -1,0 +1,23 @@
+
+# Jupyter e extensões
+jupyter
+ipykernel
+notebook
+
+# Manipulação e transformação de dados
+pandas
+numpy
+pyarrow          # para suporte a arquivos Parquet
+openpyxl         # leitura/escrita de Excel (caso necessário)
+
+# Visualização
+matplotlib
+seaborn
+
+# Banco de dados
+sqlalchemy       # ORM / conexão SQL
+psycopg2-binary  # driver PostgreSQL
+
+# Pipeline e automação
+apache-airflow   # opcional: orquestração ETL
+python-dotenv    # leitura de variáveis de ambiente
